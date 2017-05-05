@@ -14,4 +14,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](git@github.com:allen-fei/vue2.git) and [docs for vue-loader](git@github.com:allen-fei/vue2.git).
+git地址：git@github.com:allen-fei/vue2.git
