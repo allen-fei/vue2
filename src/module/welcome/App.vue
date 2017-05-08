@@ -35,7 +35,6 @@ mui.plusReady(function(){
 </script>
 
 <style lang="less" scoped>
-/*启动预览页*/
 @import (reference) '../../assets/less/public.less';
 .preImg { width: @h; height: 100%; }
 .preImg img { width: 100%; height: 100%; }
